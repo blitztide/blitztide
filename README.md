@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/blitztide/blitztide/main/Blitztide.png">
     <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitztide&&theme=dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitztide&&theme=dark">
   <br>
 </p>
 <!--
