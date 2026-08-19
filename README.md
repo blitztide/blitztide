@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/blitztide/blitztide/main/Blitztide.png">
     <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitztide&&theme=dark">
-  <br>
 </p>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=blitztide&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=blitztide&langs_count=4&theme=dark)
+
 <!--
 **blitztide/blitztide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
